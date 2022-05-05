@@ -44,11 +44,35 @@ Vì vậy các phần tử sẽ có dạng như sau:
 
 - Selector
 
+Hiểu đơn giản CSS Selector là thứ cho phép bạn nhắm mục tiêu tới các phần tử HTML để áp dụng các thuộc tính CSS cho chúng.
+
+
+CSS Selector giống như là đường đẫn, chỉ định để cho CSS biết bạn đang muốn điều chỉnh, tạo kiểu cho phần tử HTML nào vậy.
+
+1 số kiểu selector thông dụng:
+name - id - class - Universal Selector - Grouping Selector
+
+
+
 - Properties
+
+Là property của một kiểu thuộc tính thuộc thẻ HTML. Một cách đơn giản nhất để nói thì thì tất cả thuộc tính trong HTML sẽ được chuyển thành các css property. Đó sẽ là color, border,…
 
 - values
 
+ Là các giá trị gán cho các property. Ví dụ như color có thể có giá trị là Red, Green,…
+
 - reference in css
+
+Để CSS của chúng ta kết nối với HTML, chúng ta cần tham chiếu tệp CSS trong HTML
+
+có 3 các để reference css 
+
+Inline - bằng cách sử dụng thuộc tính style bên trong các phần tử HTML
+Internal - bằng cách sử dụng tag <style> trong phần <head>
+External - bằng cách sử dụng tag <link> để liên kết với tệp CSS bên ngoài
+
+
 
 	-----
 
