@@ -2,7 +2,7 @@
 
 				HTML & CSS là gì
 
-HTML (HyperText Markup Language) : là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web, nghĩa là các mẩu thông tin được trình bày trên World Wide Web
+HTML (HyperText Markup Language) : là một ngôn ngữ đánh dấu được thiết kế ra để tạo nên các trang web, nghĩa là các mẩu thông tin được trình bày trên World Wide Web.
 
 CSS (Cascading Style Sheets) : định nghĩa về cách hiển thị của một tài liệu HTML. CSS đặc biệt hữu ích trong việc thiết kế Web. 
 Nó giúp cho người thiết kế dễ dàng áp đặt các phong cách đã được thiết kế lên bất kì page nào của website một cách nhanh chóng, đồng bộ.
@@ -10,7 +10,16 @@ Nó giúp cho người thiết kế dễ dàng áp đặt các phong cách đã 
 HTML và CSS độc lập với nhau. Css không nên được viết trong HTML và ngược lại.
 HTML sẽ luôn đại diện cho nội dung và CSS sẽ luôn đại diện cho sự xuất hiện của nội dung đó.
 
+Nếu xem HTML giống như là một người, CSS giống như là quần áo.
+
 			HTML
+
+- TAGS
+
+Việc sử dụng các dấu ngoặc nhọn nhỏ hơn và lớn hơn bao quanh một phần tử sẽ tạo ra cái được gọi là Tag
+
+		<a>...</a>
+
 - ELEMENTS
 
 Elements là các ký hiệu xác định cấu trúc và nội dung của các đối tượng trên một trang. Một số phần tử được sử dụng thường xuyên hơn VD: <h*></h*>(với * có các cấp độ từ 1 đến 6), <div></div>,...
@@ -20,7 +29,7 @@ Vì vậy các phần tử sẽ có dạng như sau:
 			
 			(HÌNH)
 
-- TAGS
+- Những elements thông dụng:
 
 
 
@@ -47,6 +56,8 @@ Vì vậy các phần tử sẽ có dạng như sau:
 
 - Box Model
 
+
+
 - responsive
 
 - calc css
@@ -54,3 +65,25 @@ Vì vậy các phần tử sẽ có dạng như sau:
 - sasss
 
 Nêu các kỹ thuật cần thiết trong HTML - CSS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
